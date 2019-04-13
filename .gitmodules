@@ -1,0 +1,3 @@
+[submodule "demo-git-submodule"]
+	path = demo-git-submodule
+	url = https://github.com/dive2Pro/demo-git-submodule.git
